@@ -1,0 +1,14 @@
+C:\Sakhile\practise_projects\HashSetExample\HashSetExample\bin\Debug\netcoreapp3.1\HashSetExample.exe
+C:\Sakhile\practise_projects\HashSetExample\HashSetExample\bin\Debug\netcoreapp3.1\HashSetExample.deps.json
+C:\Sakhile\practise_projects\HashSetExample\HashSetExample\bin\Debug\netcoreapp3.1\HashSetExample.runtimeconfig.json
+C:\Sakhile\practise_projects\HashSetExample\HashSetExample\bin\Debug\netcoreapp3.1\HashSetExample.runtimeconfig.dev.json
+C:\Sakhile\practise_projects\HashSetExample\HashSetExample\bin\Debug\netcoreapp3.1\HashSetExample.dll
+C:\Sakhile\practise_projects\HashSetExample\HashSetExample\bin\Debug\netcoreapp3.1\HashSetExample.pdb
+C:\Sakhile\practise_projects\HashSetExample\HashSetExample\obj\Debug\netcoreapp3.1\HashSetExample.csproj.AssemblyReference.cache
+C:\Sakhile\practise_projects\HashSetExample\HashSetExample\obj\Debug\netcoreapp3.1\HashSetExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\practise_projects\HashSetExample\HashSetExample\obj\Debug\netcoreapp3.1\HashSetExample.AssemblyInfoInputs.cache
+C:\Sakhile\practise_projects\HashSetExample\HashSetExample\obj\Debug\netcoreapp3.1\HashSetExample.AssemblyInfo.cs
+C:\Sakhile\practise_projects\HashSetExample\HashSetExample\obj\Debug\netcoreapp3.1\HashSetExample.csproj.CoreCompileInputs.cache
+C:\Sakhile\practise_projects\HashSetExample\HashSetExample\obj\Debug\netcoreapp3.1\HashSetExample.dll
+C:\Sakhile\practise_projects\HashSetExample\HashSetExample\obj\Debug\netcoreapp3.1\HashSetExample.pdb
+C:\Sakhile\practise_projects\HashSetExample\HashSetExample\obj\Debug\netcoreapp3.1\HashSetExample.genruntimeconfig.cache
