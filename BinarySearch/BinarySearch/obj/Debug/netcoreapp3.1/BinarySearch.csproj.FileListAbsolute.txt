@@ -1,0 +1,14 @@
+C:\Sakhile\practise_projects\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.exe
+C:\Sakhile\practise_projects\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.deps.json
+C:\Sakhile\practise_projects\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.json
+C:\Sakhile\practise_projects\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
+C:\Sakhile\practise_projects\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Sakhile\practise_projects\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Sakhile\practise_projects\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.AssemblyReference.cache
+C:\Sakhile\practise_projects\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakhile\practise_projects\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
+C:\Sakhile\practise_projects\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
+C:\Sakhile\practise_projects\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Sakhile\practise_projects\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Sakhile\practise_projects\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Sakhile\practise_projects\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.genruntimeconfig.cache
